@@ -1,4 +1,5 @@
 # E-commerce Customer Behavior Analysis: Mobile App vs. Website Investment Strategy
+![Ecommerce Website vs Mobile App](https://envisionecommerce.com/wp-content/uploads/2023/05/Ecommerce-Website-vs-Mobile-App-What-is-Right-for-Your-Online-Business.jpg)
 
 ## Table of Contents
 1.  [Project Overview](#project-overview)
